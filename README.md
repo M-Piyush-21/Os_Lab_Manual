@@ -13,5 +13,14 @@ OS Lab Manual
 4. rmdir: Remove an empty directory.
 ![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/4eea2b16-14ff-48a6-8449-de5dc06495d5)
 
+5.cp: Copy a file or directory from one location to another.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/b16f70af-4f79-447e-9ecb-124b0c4a5eaa)
+
+6.rm: Remove a file or directory.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/05392fe8-14b0-47d0-8660-170d6ccee7a5)
+
+7.
+
+
 
 
