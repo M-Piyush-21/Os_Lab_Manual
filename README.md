@@ -19,7 +19,12 @@ OS Lab Manual
 6.rm: Remove a file or directory.
 ![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/05392fe8-14b0-47d0-8660-170d6ccee7a5)
 
-7.
+7.mv: Move or rename a file or directory.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/4f47cc28-3a73-49c1-b0df-276526d06ef0)
+
+8.more: Display the contents of a file page by page.
+
+
 
 
 
