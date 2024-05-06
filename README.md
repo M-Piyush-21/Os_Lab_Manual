@@ -23,6 +23,14 @@ OS Lab Manual
 ![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/4f47cc28-3a73-49c1-b0df-276526d06ef0)
 
 8.more: Display the contents of a file page by page.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/11548710-89f8-42ac-8fd6-a3c2b7dc9b8f)
+
+9.lpr: Print a file on a connected printer.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/9038b494-1548-4efc-9dcb-67ea19862367)
+
+10.man: Display the manual pages for a specified command.
+
+
 
 
 
