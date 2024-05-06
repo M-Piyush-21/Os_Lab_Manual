@@ -29,6 +29,15 @@ OS Lab Manual
 ![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/9038b494-1548-4efc-9dcb-67ea19862367)
 
 10.man: Display the manual pages for a specified command.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/ee5dde4e-ce21-4aee-8952-29978f0979e4)
+
+11.grep: Search for a specified pattern in one or more files.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/3c2931df-b9eb-44d2-b19f-9b5bbba09941)
+
+12.sed: Utilize a stream editor for filtering and transforming text.
+![image](https://github.com/M-Piyush-21/Os_Lab_Manual/assets/142775278/68fa3abc-82a1-46ee-94f9-ea4d0a90be74)
+
+
 
 
 
